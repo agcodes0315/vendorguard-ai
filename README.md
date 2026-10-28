@@ -6,7 +6,7 @@
 
 VendorGuard AI is an evidence-first vendor risk assessment platform built with **Google ADK, Model Context Protocol, FastAPI, and React**.
 
-It separates evidence extraction, security analysis, policy enforcement, and decision generation across specialized agents while keeping high-risk decisions behind an explicit human approval gate.
+It separates evidence extraction, security analysis, policy enforcement and decision generation across specialized agents while keeping high-risk decisions behind an explicit human approval gate.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-VendorGuard-2DD4A7?style=flat-square)](https://vendorguard-web.web.app/)
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/vendorguard-ai)
